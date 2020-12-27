@@ -37,7 +37,7 @@
     <div class="container-fluid">
         <div class="row width-100-padding-6">
           <div class="col-sm-8  width-100-padding-0 news-single-item ">
-            <h3 class="font-weight-bolder center-text   d-flex" style="padding-left:5% ;"><a class="text-danger">News Catagory :</a> Balussery</h3><br>
+            <h3 class="font-weight-bolder center-text   d-flex" style="padding-left:5% ;"><a class="text-danger">News Catagory:</a> Balussery</h3><br>
                 <div class="items-row  well well-lg">
                     <img src="assets/img/images/adds-images/ad.jpg" class="cat-img-adj" width=45% ; >
                     <div class=" container">
